@@ -6,7 +6,7 @@ Repositório para armazenar meus trabalhos da faculdade.
 
 ### Programação de computadores 
 
-[oi](#C:trabalhos-faculdade\ED_I)
+[oi](#C)
 
 ### Estrutura de dados I
 
