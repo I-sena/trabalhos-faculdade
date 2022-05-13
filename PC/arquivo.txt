@@ -1,0 +1,40 @@
+**fopen - abre o arquivo
+--FILE* nome_do_ponteiro = ("nome do arquivo.txt",tipo do arqivo).
+tipos de arquivos basicos:
+r- leitura
+w- gravaçao
+
+se o ponteiro igual a NULL deu ruim na criação.
+---------------------------------------------------------------
+**fclose- fecha o arquivo
+fclose(nome do ponteiro)
+---------------------------------------------------------------
+**feof- testa se o arquivo esta no final
+feof(nome_do_arquivo);
+obs: nao recomendavel usar como parametro de parada de um loop.
+---------------------------------------------------------------
+**fprintf - printa/escreve algo dentro do arquivo
+fprintf(nome_do_arquivo,"oque é pra ser gravado",varialvel caso necessario)
+-------------------------------------------------------------------------
+**fputs - escreve/gravar no arquivo, ela escreve sem colocar \n ou espaço.
+fputs("o que é pra ser escrito",arquivo)
+sucesso = !0;
+erro = EOF;
+--------------------------------------------------------------------------
+**fputc- escreve um unico caracter dentro do arquivo.
+--(char que eu quero gravar, arquivo q deve ser gravado).
+--------------------------------------------------------------------------
+**fscanf - le os dados de um arquivo para ser usado no programa.
+fscanf(arquivo,tipos de entradas, variavel)
+---------------------------------------------------------------------------
+**fgets - pega toda uma string de um arquivo ate ela achar um \0 ou \n.(ou quantos caracteres eu quiser)
+retorno o endereco da string lida.
+fgets(variavel de armazenar,qty de caracteres, arquivo)
+erro = NULL;
+--------------------------------------------------------------------------------
+**fgetc - pega um caracter por vez de uma string de um arquivo.
+char = fgets(arquivo)
+----------------------------------------------------------------------------------
+fropen-
+
+ferror- acha o erro e diz onde foi
