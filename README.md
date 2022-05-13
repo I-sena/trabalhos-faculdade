@@ -4,11 +4,9 @@ Repositório para armazenar meus trabalhos da faculdade.
 
 ## 2° Período
 
-### Programação de computadores 
+### [Programação de computadores](https://github.com/I-sena/trabalhos-faculdade/tree/main/PC) 
 
-[oi](trabalhos-faculdade\ED_I)
-
-### Estrutura de dados I
+### [Estrutura de dados I](https://github.com/I-sena/trabalhos-faculdade/tree/main/ED_I)
 
 ## 3° Período
 
