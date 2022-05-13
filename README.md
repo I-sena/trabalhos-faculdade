@@ -12,6 +12,6 @@ Repositório para armazenar meus trabalhos da faculdade.
 
 ### Estrutura de dados II
 
-### Banco de dados
+### [Banco de dados](https://github.com/I-sena/trabalhos-faculdade/tree/main/SISTEMA%20DE%20PROCESSAMENTO%20DE%20ARQUIVOS)
 
-### Programação orientada a objetos
+### [Programação orientada a objetos](https://github.com/I-sena/trabalhos-faculdade/tree/main/POO)
