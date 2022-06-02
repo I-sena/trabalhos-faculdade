@@ -1,6 +1,6 @@
 # Trabalhos da faculdade de CC
 
-Repositório para armazenar meus trabalhos da faculdade.
+Repositório para armazenar meus codigos de tarefas, trabalhos e estudos feitos para a faculdade.
 
 ## 2° Período
 
